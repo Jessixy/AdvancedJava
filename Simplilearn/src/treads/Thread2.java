@@ -1,7 +1,5 @@
 package treads;
 
-import annotations.CustomAnnotation;
-
 public class Thread2 implements Runnable{
 
     @Override
